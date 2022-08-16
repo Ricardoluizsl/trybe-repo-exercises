@@ -23,17 +23,11 @@ li {
     font-size: 20px;
 }
 
-li em {
-    font-weight: 600;
+
+ul div {
+    color: turquoise;
 }
 
-.languages{
-
-}
-
-.languages li "java*" {
-    background-color:hotpink;
-}
 
 .references:hover{
 font-weight: 600;
@@ -55,5 +49,10 @@ font-weight: 600;
     color: green;
 }
     
+em.ordered-list {
 
+}
+em {
+
+}
 
