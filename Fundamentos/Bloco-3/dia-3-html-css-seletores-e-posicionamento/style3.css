@@ -1,0 +1,23 @@
+h1, p {
+    text-align: center;
+}
+
+.Youtube:hover {
+    background-color: crimson;
+}
+
+.Tibia:hover {
+    background-color: crimson;
+}
+
+.Trybe:hover {
+    background-color: crimson;
+}
+
+.main-reasons:active{
+    color: white
+}
+
+ul {
+    list-style:lower-roman;
+}
