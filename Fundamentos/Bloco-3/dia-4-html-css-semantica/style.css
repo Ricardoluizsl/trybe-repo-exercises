@@ -48,10 +48,9 @@
         
       }
 
-     li {
-      display: inline-block;
-      text-align: center;
-     }
+      li{
+        list-style: none;
+      }
 
 
 
