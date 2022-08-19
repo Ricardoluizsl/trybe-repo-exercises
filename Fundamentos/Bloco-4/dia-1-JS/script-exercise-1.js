@@ -177,3 +177,7 @@ else {
     console.log('Erro, os valores nao podem sr negativos')
 }
 
+//exercicio 11:
+
+
+
