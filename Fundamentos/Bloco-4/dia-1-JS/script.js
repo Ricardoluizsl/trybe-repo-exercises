@@ -67,7 +67,7 @@ console.log(conditionOne && conditionTwo);
 
 //exercicio 7:
 
-const currentHour = 16;
+const currentHour = 17;
 let message = "";
 
 if (currentHour >= 22) {
@@ -106,7 +106,7 @@ console.log(undefined);
 //ex 10:
 
 
-mes = 'maio';
+let mes = 'maio';
 let estacaoDoAno = '?';
 
 switch (mes) {
@@ -140,20 +140,19 @@ const situacao = "aprovado"
 
 switch (situacao) {
     case "aprovado":
-        console.log(Parabéns, vc foi aprovado!);
+        console.log("Parabéns, vc foi aprovado!");
     break;
 
     case "lista":
-        console.log(vc está na lsita de espera);
+        console.log("vc está na lsita de espera");
     break;
 
     case "reprovado":
-        console.log(vc está reprovado);
+        console.log("vc está reprovado");
     break;
 
     default:
-        console.log(informação incorreta);
+        console.log("informação incorreta");
     break;
 }
 
-break;
