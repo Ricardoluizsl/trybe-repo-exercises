@@ -29,3 +29,7 @@ if(numerosImpares === 0){
     console.log(numerosImpares)
 }
 
+//exercicio7: menor número
+
+
+
