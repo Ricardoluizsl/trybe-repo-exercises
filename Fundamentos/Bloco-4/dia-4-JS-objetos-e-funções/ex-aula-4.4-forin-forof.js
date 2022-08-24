@@ -82,3 +82,16 @@ for (let position in food) {
   for (let modelo in car) {
     console.log(modelo + modelo[index])
   }
+
+
+  //
+
+  const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(property + ' = ' + object[property]);
+}
+
+function greetingsMessage(name) {
+    console.log("Boas vindas, " + name);
+  }
