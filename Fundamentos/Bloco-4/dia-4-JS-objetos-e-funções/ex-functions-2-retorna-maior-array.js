@@ -2,7 +2,11 @@
 
 let array [2, 3, 6, 7, 10, 1];
 
-function retornaIndiceDoMaiorValor (valor){
+function retornaIndiceDoMaiorValor (numeros){
     let MaiorIndex =[0]
-    for(let )
+    for (let index in numeros){
+       if (numeros[maiorIndex] < numeros[index]){
+        
+       } 
+    }
 }
